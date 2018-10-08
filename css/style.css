@@ -2,7 +2,7 @@ body { font-size: 14px;
 }
 
 nav {
-  background-color: : yellow;
+  background-color: yellow;
   height: 100px;
   margin-top: -10px;
   position: fixed;
@@ -26,9 +26,6 @@ h1 {
 .example, h3 {
   padding-top: 30px;
   text-align: center;
-}
-
-h3 {
   font-size: 1.3em;
 }
 
@@ -39,11 +36,6 @@ h3 {
   width: 100%;
 }
 
-.element last { background-color: red;
-
+.element.class {
+  background-color: red;
 }
-
- /* I have tried to make sure I got this right. In the event that i did not,
- please help me by showing me video examples. I learn better by visuals than anything.
- Thanks */
-/* Juan is there a way to check for errors after coding in ATOM? Also, how do I review my code as a website in ATOM? Thanks*/
