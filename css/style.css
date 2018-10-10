@@ -14,7 +14,8 @@ nav {
 
 }
 section {
-  margin: 0 auto;
+  margin: auto;
+  margin-top: auto;
   width: 60%;
 }
 
